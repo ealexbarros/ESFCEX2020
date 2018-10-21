@@ -1,2 +1,2 @@
 # ESFCEX2020
-Prepação para o Concurso da ESFCEX 2020
+Preparação para o Concurso da ESFCEX 2020
